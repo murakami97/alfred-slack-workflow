@@ -264,10 +264,13 @@
 	<dict>
 		<key>SLACK_TOKEN</key>
 		<string></string>
+		<key>USER_ID</key>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
 		<string>SLACK_TOKEN</string>
+		<string>USER_ID</string>
 	</array>
 	<key>version</key>
 	<string></string>
